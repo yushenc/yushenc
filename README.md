@@ -24,7 +24,8 @@ inventory reports for staff review.
 **Client Feedback**
 
 "Yushen made an outstanding contribution to our LEGO set verification 
-project and was responsible for a significant portion of the overall application..."
+project… Her combination of technical ability, initiative, reliability, and 
+collaborative approach made her a valuable contributor to the project."
 
 [View full client feedback](https://wgu.riipen.com/feedbacks/pL42bDGO)
 

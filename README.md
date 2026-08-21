@@ -22,6 +22,7 @@ inventory reports for staff review.
 ![App Screenshots](files/app_screenshots.gif)
 
 **Client Feedback**
+
 "Yushen made an outstanding contribution to our LEGO set verification 
 project and was responsible for a significant portion of the overall application..."
 

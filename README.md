@@ -73,4 +73,4 @@ and visualization in R.
 
 [View Analysis](https://github.com/yushenc/bikeshare-demand-analysis-r/tree/main)
 
-## Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/yushenchiu/) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:yushenc10@gmail.com)
+## Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yushenchiu/) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:yushenc10@gmail.com)
